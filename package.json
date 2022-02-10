@@ -20,6 +20,6 @@
   "homepage": "https://github.com/hirorocky/portfolio#readme",
   "devDependencies": {
     "bulma": "^0.7.5",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   }
 }
